@@ -1,0 +1,11 @@
+p1,p2{
+    color:aqua;
+    display: list-item;
+    list-style: disc inside;
+    margin-left: 5px;
+  }
+
+p3{
+    background-color: rgb(255, 251, 0);
+    font-weight: 900;
+}
